@@ -1,0 +1,84 @@
+header {
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    background-color: rgb(185, 176, 176);
+    background-image: url(img/Los\ Angeles.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+header h1 {
+    font-size: 70px;
+}
+
+header p {
+    font-size: 20px;
+}
+
+.punti {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.punti svg{
+    font-size: 60px;
+}
+
+.no-gutters {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.sezione-immagini {
+    min-height: 30rem;
+}
+
+.testo {
+    padding: 3rem !important;
+}
+
+.immagine-1 {
+    min-height: 30rem;
+    background-image: url(img/Città/Los-angeles-city.jpg);
+    background-size: cover;
+}
+.immagine-2 {
+    min-height: 30rem;
+    background-image: url(img/Città/San-Francisco.jpg);
+    background-size: cover;
+}
+
+.immagine-3 {
+    min-height: 30rem;
+    background-image: url(img/Città/San-Diego.jpg);
+    background-size: cover;
+}
+
+.recensioni {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.recensioni img {
+    height: 200px;
+    width: 200px;
+}
+
+.iscrizione {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background-image: url(img/Hollywood.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+footer a {
+    color: black;
+}
+
