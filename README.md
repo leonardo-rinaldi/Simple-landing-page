@@ -5,9 +5,9 @@ This is a simple landing page build with Bootstrap 4.5. I've create this page to
 ## Preview
 
 ![](Preview-img/Landing-page-preview.png)
-![](Preview-image/Landing-page-preview-2.png)
-![](Preview-image/Landing-page-preview-3.png)
-![](Preview-image/Landing-page-preview-4.png)
+![](Preview-img/Landing-page-preview-2.png)
+![](Preview-img/Landing-page-preview-3.png)
+![](Preview-img/Landing-page-preview-4.png)
 
         
  ## Bugs
