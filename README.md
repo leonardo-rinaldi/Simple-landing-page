@@ -16,4 +16,4 @@ This is a simple landing page build with Bootstrap 4.5. I've create this page to
  
  ## Copyright and License
  
- Copyright 2013-2020 Start Bootstrap LLC. Code released under the MIT license.
+ Copyright 2013-2021 Start Bootstrap LLC. Code released under the MIT license.
