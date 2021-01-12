@@ -4,7 +4,7 @@ This is a simple landing page build with Bootstrap 4.5. I've create this page to
 
 ## Preview
 
-![](img/Hollywood.jpg)
+![](Landing-page-preview.png)
 
         
  ## Bugs
